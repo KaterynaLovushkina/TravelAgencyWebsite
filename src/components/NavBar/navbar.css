@@ -1,0 +1,22 @@
+.sign_up{
+    color: #bf014d;
+    background-color: rgba(102,135,90,0.85)
+}
+.sign_up:hover{
+    background-color: rgba(60, 73, 59, 0.85);
+    color: #bf014d;
+}
+.nav_link:after{
+    content: "";
+    position: absolute;
+    background-color: #fff;
+    height: 2px;
+    left: 1rem;
+    bottom: -5px;
+    width: 0;
+    transition: 0.3s;
+}
+.nav_link:hover:after{
+    width: 70%;
+
+}

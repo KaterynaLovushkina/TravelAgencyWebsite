@@ -1,0 +1,12 @@
+.heroIcon{
+    color: #d0c8d0;
+    margin-right: 10px;
+}
+.date{
+    position: absolute;
+    top: 50px;
+
+}
+.counter_number:disabled{
+    cursor: not-allowed;
+}

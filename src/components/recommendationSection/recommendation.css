@@ -1,0 +1,9 @@
+.readLessMore{
+    padding-top: 7px;
+    display: block;
+    color: #0071eb;
+
+}
+.readLessMore:hover{
+    color: initial;
+}

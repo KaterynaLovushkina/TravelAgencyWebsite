@@ -1,0 +1,8 @@
+.sign_up{
+    color: #bf014d;
+    background: rgba(102,135,90,0.85)
+}
+.sign_up:hover{
+    background: rgba(133, 170, 131, 0.85);
+    color: #bf014d;
+}

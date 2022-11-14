@@ -1,0 +1,20 @@
+.DropTripTypes{
+    position: relative;
+    margin-top: 40px;
+
+    z-index: 2;
+}
+.DropPrice{
+    position: relative;
+    margin-top: 60px;
+    z-index: 1;
+}
+.DropTransport{
+    position: relative;
+    margin-top: 60px;
+
+
+
+
+
+}
