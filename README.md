@@ -1,9 +1,9 @@
 # TravelAgencyWebsite
 This is finished React project of creating Travel agency website with next functionality:
  
-Landing (Home) page with  React.js
-Items list (Catalog) page. React Routing
-Item page. Adding interactivity to a website.
-Making everything work. (connecting to REST API)
-Cart page (Items list). First look at Redux
-Cart page (Shipping form) with validation (+ Formik and Yup)
+1. Landing (Home) page with  React.js
+2. Items list (Catalog) page. React Routing
+3. Item page. Adding interactivity to a website.
+4. Making everything work. (connecting to REST API)
+5 .Cart page (Items list). First look at Redux
+6. Cart page (Shipping form) with validation (+ Formik and Yup)
